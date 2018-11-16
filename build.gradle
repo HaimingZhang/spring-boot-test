@@ -1,0 +1,40 @@
+subprojects {
+    apply plugin: 'java'
+    apply plugin: 'idea'
+
+    configurations {
+        providedCompile
+        all {
+            resolutionStrategy {
+                cacheChangingModulesFor 0, 'seconds'
+            }
+        }
+    }
+
+    compileJava {
+        sourceCompatibility = 1.8
+        targetCompatibility = 1.8
+        options.compilerArgs << '-parameters'
+        options.fork = true
+        options.encoding = "UTF-8"
+        options.forkOptions.executable = 'javac'
+    }
+
+    repositories {
+        mavenCentral()
+    }
+
+//    dependencies {
+//        providedCompile('org.projectlombok:lombok:1.16.10')
+//    }
+
+//    task sourcesJar(type: Jar) {
+//        classifier = 'sources'
+//        from sourceSets.main.allSource
+//    }
+//
+//    artifacts {
+//        archives jar
+//        archives sourcesJar
+//    }
+}

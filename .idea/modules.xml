@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Spring-boot.iml" filepath="$PROJECT_DIR$/.idea/modules/Spring-boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/daily-study/daily-study.iml" filepath="$PROJECT_DIR$/.idea/modules/daily-study/daily-study.iml" group="daily-study" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/daily-study/daily-study_main.iml" filepath="$PROJECT_DIR$/.idea/modules/daily-study/daily-study_main.iml" group="daily-study" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/daily-study/daily-study_test.iml" filepath="$PROJECT_DIR$/.idea/modules/daily-study/daily-study_test.iml" group="daily-study" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/netty-client/netty-client.iml" filepath="$PROJECT_DIR$/.idea/modules/netty-client/netty-client.iml" group="netty-client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/netty-client/netty-client_main.iml" filepath="$PROJECT_DIR$/.idea/modules/netty-client/netty-client_main.iml" group="netty-client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/netty-client/netty-client_test.iml" filepath="$PROJECT_DIR$/.idea/modules/netty-client/netty-client_test.iml" group="netty-client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/netty-server/netty-server.iml" filepath="$PROJECT_DIR$/.idea/modules/netty-server/netty-server.iml" group="netty-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/netty-server/netty-server_main.iml" filepath="$PROJECT_DIR$/.idea/modules/netty-server/netty-server_main.iml" group="netty-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/netty-server/netty-server_test.iml" filepath="$PROJECT_DIR$/.idea/modules/netty-server/netty-server_test.iml" group="netty-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/plant-uml/plant-uml.iml" filepath="$PROJECT_DIR$/.idea/modules/plant-uml/plant-uml.iml" group="plant-uml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/plant-uml/plant-uml_main.iml" filepath="$PROJECT_DIR$/.idea/modules/plant-uml/plant-uml_main.iml" group="plant-uml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/plant-uml/plant-uml_test.iml" filepath="$PROJECT_DIR$/.idea/modules/plant-uml/plant-uml_test.iml" group="plant-uml" />
+    </modules>
+  </component>
+</project>

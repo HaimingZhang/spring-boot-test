@@ -1,0 +1,17 @@
+-source
+1.8
+-target
+1.8
+-d
+/Users/hmzhang/fork_hmzhang/Spring-boot/netty-client/build/classes/main
+-encoding
+UTF-8
+-g
+-sourcepath
+""
+-proc:none
+-XDuseUnsharedTable=true
+-classpath
+""
+-parameters
+/Users/hmzhang/fork_hmzhang/Spring-boot/netty-client/src/main/java/com/hemming/package-info.java
