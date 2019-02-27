@@ -5,7 +5,7 @@ package com.hemming.daily.algorithm.算法.排序算法;
  */
 public class 快排算法 {
     public static void main(String[] args) {
-        int[] a = {16, 12, 18, 13, 1, 5, 7, 9, 2, 4, 6, 16};
+        int[] a = {6, 4, 5, 8};
         int start = 0;
         int end = a.length - 1;
         sort(a, start, end);

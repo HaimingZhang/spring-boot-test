@@ -3,17 +3,19 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
-        <option name="distributionType" value="WRAPPED" />
+        <option name="createEmptyContentRootDirectories" value="true" />
+        <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="gradleHome" value="/usr/local/Cellar/gradle/4.10/libexec" />
-        <option name="gradleJvm" value="#JAVA_HOME" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/amqp-client" />
             <option value="$PROJECT_DIR$/daily-study" />
             <option value="$PROJECT_DIR$/netty-client" />
             <option value="$PROJECT_DIR$/netty-server" />
-            <option value="$PROJECT_DIR$/plant-uml" />
+            <option value="$PROJECT_DIR$/redis-client" />
+            <option value="$PROJECT_DIR$/web-restful" />
           </set>
         </option>
         <option name="useAutoImport" value="true" />

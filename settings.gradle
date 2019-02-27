@@ -1,5 +1,6 @@
 include 'netty-client'
 include 'netty-server'
 include 'daily-study'
-include 'plant-uml'
-
+include 'redis-client'
+include 'amqp-client'
+include 'web-restful'

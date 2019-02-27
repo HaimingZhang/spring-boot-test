@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Spring-boot.iml" filepath="$PROJECT_DIR$/.idea/modules/Spring-boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/amqp-client/amqp-client.iml" filepath="$PROJECT_DIR$/.idea/modules/amqp-client/amqp-client.iml" group="amqp-client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/amqp-client/amqp-client_main.iml" filepath="$PROJECT_DIR$/.idea/modules/amqp-client/amqp-client_main.iml" group="amqp-client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/amqp-client/amqp-client_test.iml" filepath="$PROJECT_DIR$/.idea/modules/amqp-client/amqp-client_test.iml" group="amqp-client" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/daily-study/daily-study.iml" filepath="$PROJECT_DIR$/.idea/modules/daily-study/daily-study.iml" group="daily-study" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/daily-study/daily-study_main.iml" filepath="$PROJECT_DIR$/.idea/modules/daily-study/daily-study_main.iml" group="daily-study" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/daily-study/daily-study_test.iml" filepath="$PROJECT_DIR$/.idea/modules/daily-study/daily-study_test.iml" group="daily-study" />
@@ -12,9 +14,13 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/netty-server/netty-server.iml" filepath="$PROJECT_DIR$/.idea/modules/netty-server/netty-server.iml" group="netty-server" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/netty-server/netty-server_main.iml" filepath="$PROJECT_DIR$/.idea/modules/netty-server/netty-server_main.iml" group="netty-server" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/netty-server/netty-server_test.iml" filepath="$PROJECT_DIR$/.idea/modules/netty-server/netty-server_test.iml" group="netty-server" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/plant-uml/plant-uml.iml" filepath="$PROJECT_DIR$/.idea/modules/plant-uml/plant-uml.iml" group="plant-uml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/plant-uml/plant-uml_main.iml" filepath="$PROJECT_DIR$/.idea/modules/plant-uml/plant-uml_main.iml" group="plant-uml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/plant-uml/plant-uml_test.iml" filepath="$PROJECT_DIR$/.idea/modules/plant-uml/plant-uml_test.iml" group="plant-uml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/redis-client/redis-client.iml" filepath="$PROJECT_DIR$/.idea/modules/redis-client/redis-client.iml" group="redis-client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/redis-client/redis-client_main.iml" filepath="$PROJECT_DIR$/.idea/modules/redis-client/redis-client_main.iml" group="redis-client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/redis-client/redis-client_test.iml" filepath="$PROJECT_DIR$/.idea/modules/redis-client/redis-client_test.iml" group="redis-client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-boot.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web-restful/web-restful.iml" filepath="$PROJECT_DIR$/.idea/modules/web-restful/web-restful.iml" group="web-restful" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web-restful/web-restful_main.iml" filepath="$PROJECT_DIR$/.idea/modules/web-restful/web-restful_main.iml" group="web-restful" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web-restful/web-restful_test.iml" filepath="$PROJECT_DIR$/.idea/modules/web-restful/web-restful_test.iml" group="web-restful" />
     </modules>
   </component>
 </project>
