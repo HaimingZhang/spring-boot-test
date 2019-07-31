@@ -17,7 +17,7 @@ public class ForkJoinTest {
 
         Long time1 = System.currentTimeMillis();
 
-        List<Integer> integers = forkJoinTest.get(list);
+        //List<Integer> integers = forkJoinTest.get(list);
 
         Long time2 = System.currentTimeMillis() - time1;
 
@@ -38,11 +38,11 @@ public class ForkJoinTest {
 
     }
 
-    public List<Integer> get(List<Integer> list) {
-        List<CompletableFuture<Integer>> collect = list.stream().map(i -> CompletableFuture.supplyAsync(() -> getById(i))).collect(Collectors.toList());
-        List<Integer> collect1 = collect.stream().filter(Objects::nonNull).map(CompletableFuture::join).collect(Collectors.toList());
-        return collect1;
-    }
+    //public List<Integer> get(List<Integer> list) {
+    //    //list.stream().map(i -> CompletableFuture.supplyAsync(() -> getById(i)).exceptionally(throwable -> new RuntimeException("1")))
+    //    //List<Integer> collect1 = collect.stream().filter(Objects::nonNull).map(CompletableFuture::join).collect(Collectors.toList());
+    //    //return collect1;
+    //}
 
     public int getById(int i) {
         Random random = new Random(i);

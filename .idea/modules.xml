@@ -2,25 +2,25 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/amqp-client/amqp-client.iml" filepath="$PROJECT_DIR$/.idea/modules/amqp-client/amqp-client.iml" group="amqp-client" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/amqp-client/amqp-client_main.iml" filepath="$PROJECT_DIR$/.idea/modules/amqp-client/amqp-client_main.iml" group="amqp-client" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/amqp-client/amqp-client_test.iml" filepath="$PROJECT_DIR$/.idea/modules/amqp-client/amqp-client_test.iml" group="amqp-client" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/daily-study/daily-study.iml" filepath="$PROJECT_DIR$/.idea/modules/daily-study/daily-study.iml" group="daily-study" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/daily-study/daily-study_main.iml" filepath="$PROJECT_DIR$/.idea/modules/daily-study/daily-study_main.iml" group="daily-study" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/daily-study/daily-study_test.iml" filepath="$PROJECT_DIR$/.idea/modules/daily-study/daily-study_test.iml" group="daily-study" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/netty-client/netty-client.iml" filepath="$PROJECT_DIR$/.idea/modules/netty-client/netty-client.iml" group="netty-client" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/netty-client/netty-client_main.iml" filepath="$PROJECT_DIR$/.idea/modules/netty-client/netty-client_main.iml" group="netty-client" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/netty-client/netty-client_test.iml" filepath="$PROJECT_DIR$/.idea/modules/netty-client/netty-client_test.iml" group="netty-client" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/netty-server/netty-server.iml" filepath="$PROJECT_DIR$/.idea/modules/netty-server/netty-server.iml" group="netty-server" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/netty-server/netty-server_main.iml" filepath="$PROJECT_DIR$/.idea/modules/netty-server/netty-server_main.iml" group="netty-server" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/netty-server/netty-server_test.iml" filepath="$PROJECT_DIR$/.idea/modules/netty-server/netty-server_test.iml" group="netty-server" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/redis-client/redis-client.iml" filepath="$PROJECT_DIR$/.idea/modules/redis-client/redis-client.iml" group="redis-client" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/redis-client/redis-client_main.iml" filepath="$PROJECT_DIR$/.idea/modules/redis-client/redis-client_main.iml" group="redis-client" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/redis-client/redis-client_test.iml" filepath="$PROJECT_DIR$/.idea/modules/redis-client/redis-client_test.iml" group="redis-client" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-boot.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-boot.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web-restful/web-restful.iml" filepath="$PROJECT_DIR$/.idea/modules/web-restful/web-restful.iml" group="web-restful" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web-restful/web-restful_main.iml" filepath="$PROJECT_DIR$/.idea/modules/web-restful/web-restful_main.iml" group="web-restful" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web-restful/web-restful_test.iml" filepath="$PROJECT_DIR$/.idea/modules/web-restful/web-restful_test.iml" group="web-restful" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/amqp-client/amqp-client.iml" filepath="$PROJECT_DIR$/.idea/modules/amqp-client/amqp-client.iml" group="spring-boot/amqp-client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/amqp-client/amqp-client_main.iml" filepath="$PROJECT_DIR$/.idea/modules/amqp-client/amqp-client_main.iml" group="spring-boot/amqp-client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/amqp-client/amqp-client_test.iml" filepath="$PROJECT_DIR$/.idea/modules/amqp-client/amqp-client_test.iml" group="spring-boot/amqp-client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/daily-study/daily-study.iml" filepath="$PROJECT_DIR$/.idea/modules/daily-study/daily-study.iml" group="spring-boot/daily-study" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/daily-study/daily-study_main.iml" filepath="$PROJECT_DIR$/.idea/modules/daily-study/daily-study_main.iml" group="spring-boot/daily-study" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/daily-study/daily-study_test.iml" filepath="$PROJECT_DIR$/.idea/modules/daily-study/daily-study_test.iml" group="spring-boot/daily-study" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/netty-client/netty-client.iml" filepath="$PROJECT_DIR$/.idea/modules/netty-client/netty-client.iml" group="spring-boot/netty-client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/netty-client/netty-client_main.iml" filepath="$PROJECT_DIR$/.idea/modules/netty-client/netty-client_main.iml" group="spring-boot/netty-client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/netty-client/netty-client_test.iml" filepath="$PROJECT_DIR$/.idea/modules/netty-client/netty-client_test.iml" group="spring-boot/netty-client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/netty-server/netty-server.iml" filepath="$PROJECT_DIR$/.idea/modules/netty-server/netty-server.iml" group="spring-boot/netty-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/netty-server/netty-server_main.iml" filepath="$PROJECT_DIR$/.idea/modules/netty-server/netty-server_main.iml" group="spring-boot/netty-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/netty-server/netty-server_test.iml" filepath="$PROJECT_DIR$/.idea/modules/netty-server/netty-server_test.iml" group="spring-boot/netty-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/redis-client/redis-client.iml" filepath="$PROJECT_DIR$/.idea/modules/redis-client/redis-client.iml" group="spring-boot/redis-client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/redis-client/redis-client_main.iml" filepath="$PROJECT_DIR$/.idea/modules/redis-client/redis-client_main.iml" group="spring-boot/redis-client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/redis-client/redis-client_test.iml" filepath="$PROJECT_DIR$/.idea/modules/redis-client/redis-client_test.iml" group="spring-boot/redis-client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-boot.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-boot.iml" group="spring-boot" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web-restful/web-restful.iml" filepath="$PROJECT_DIR$/.idea/modules/web-restful/web-restful.iml" group="spring-boot/web-restful" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web-restful/web-restful_main.iml" filepath="$PROJECT_DIR$/.idea/modules/web-restful/web-restful_main.iml" group="spring-boot/web-restful" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web-restful/web-restful_test.iml" filepath="$PROJECT_DIR$/.idea/modules/web-restful/web-restful_test.iml" group="spring-boot/web-restful" />
     </modules>
   </component>
 </project>

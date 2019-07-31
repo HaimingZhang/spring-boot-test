@@ -19,5 +19,7 @@ public class Client {
         BenzBuilder benzBuilder = new BenzBuilder();
         benzBuilder.setSequence(sequence);
         benzBuilder.getCarModel().run();
+
+        System.out.println(Client.class.getSimpleName());
     }
 }
