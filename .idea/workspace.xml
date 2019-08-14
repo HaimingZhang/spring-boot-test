@@ -2,111 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d73bee4-15b6-4710-9bf2-34583b89e3e3" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/algs4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/alsc_item_center_client_1_0_1_SNAPSHOT_jar_with_dependencies.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/alsc_item_center_client_1_0_1_SNAPSHOT_sources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/alsc_item_center_client_1_0_2_SNAPSHOT_jar_with_dependencies.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/alsc_item_center_client_1_0_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/alsc_item_center_client_1_0_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/alsc_item_center_client_1_1_8_20190409_152021_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/gpf_retail_client_alsc_1_1_7_20190404_034256_34.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/gpf_retail_client_alsc_1_1_7_20190404_090304_35.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily-study/src/main/java/11.puml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily-study/src/main/java/22.puml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/algorithm/算法/字符串/唯一字符.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/algorithm/算法/数组/加1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/algorithm/算法/链表/DeleteListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/algorithm/算法/链表/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/algorithm/算法/链表/ListReverseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/algorithm/算法/链表/RemoveListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/java8/FunctionTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/test/ComplateFutureTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/test/FormatTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/test/IFunctionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/test/TestDouble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/CountAndSay05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/d12/买卖股票最佳时机.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/d12/翻转一棵二叉树.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/d13/回文链表.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/d13/环形链表.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/d14/最小栈.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/d14/相交链表.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/d15/小偷偷钱a.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/d15/贯穿最长树长度.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/d16/Temp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/d16/找到所有数组中消失的数字.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/d16/求众数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/d17/合并二叉树.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/d17/最短无序连续子数组.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/d18/把二叉搜索树转换为累加树.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/d18/汉明距离.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/d19/LRUCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/d19/路径总和3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/d20/字符串相加.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/d21/Nim游戏.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/d22/二分查找.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/d23/VersionControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/d23/最长回文子串.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/d23/第一个错误版本.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/d24/打印二维数组的值.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/d24/搜索二维矩阵2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/d24/求二进制.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/d25/操作数栈.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/d26/ResizingArrayStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/d26/Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/二进制字符串求和06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/删除链表重复元素08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/合并数组08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/合并链表day3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/实现strStr04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/对称二叉树10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/层次遍历10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/平方根07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/数组目标插入05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/最后一个单词长度06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/最大深度11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/最长公共前缀day2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/有序数组转为BST11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/有效的括号day3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/爬楼梯07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/相同的树10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/移除元素04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/罗马数字day1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/连续子数组07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/链表反转11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/验证数字是否回文day01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-restful/src/main/java/com/hemming/web/condition/JdbcTemplateCondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_aspectj_aspectjweaver_1_8_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hibernate_hibernate_validator_5_3_6_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_aop_1_5_18_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-restful/src/main/java/com/hemming/web/aspect/ServiceAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web-restful/src/main/java/com/hemming/web/req/AbstractReq.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileContent/annotation-processors.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileContent/fileContent.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hibernate_hibernate_validator_5_2_4_Final.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules/Spring-boot.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Spring-boot.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules/daily-study/daily-study_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/daily-study/daily-study_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/web-restful/web-restful_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/web-restful/web-restful_main.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules/web-restful/web-restful_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/web-restful/web-restful_test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/daily-study/out/production/classes/com/hemming/daily/algorithm/算法/二叉树/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/daily-study/out/production/classes/com/hemming/daily/algorithm/算法/二叉树/TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/daily-study/out/production/classes/com/hemming/daily/designPatterns/builder/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/daily-study/out/production/classes/com/hemming/daily/designPatterns/builder/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/daily-study/out/production/classes/com/hemming/daily/leetcode/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/daily-study/out/production/classes/com/hemming/daily/test/ForkJoinTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/daily-study/out/production/classes/com/hemming/daily/test/ForkJoinTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/daily-study/out/production/classes/com/hemming/daily/test/IdJoiner.class" beforeDir="false" afterPath="$PROJECT_DIR$/daily-study/out/production/classes/com/hemming/daily/test/IdJoiner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/daily-study/out/production/classes/com/hemming/daily/test/TestMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/daily-study/out/production/classes/com/hemming/daily/test/TestMap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/algorithm/算法/二叉树/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/algorithm/算法/二叉树/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/designPatterns/builder/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/designPatterns/builder/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/leetcode/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/test/ForkJoinTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/test/ForkJoinTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/test/IdJoiner.java" beforeDir="false" afterPath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/test/IdJoiner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/test/TestMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/test/TestMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daily-study/out/production/classes/com/hemming/daily/test/TestException.class" beforeDir="false" afterPath="$PROJECT_DIR$/daily-study/out/production/classes/com/hemming/daily/test/TestException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/test/TestException.java" beforeDir="false" afterPath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/test/TestException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-restful/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/web-restful/build.gradle" afterDir="false" />
     </list>
     <ignored path="Spring-boot.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -170,6 +81,11 @@
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="spring-boot" type="f1a62948:ProjectNode" />
               </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spring-boot" type="f1a62948:ProjectNode" />
+                <item name="web-restful" type="2d1252cf:ModuleNode" />
+              </path>
             </expand>
             <select />
           </tree_state>
@@ -183,10 +99,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/d25/操作数栈.java">
+        <entry file="file://$PROJECT_DIR$/web-restful/src/main/java/com/hemming/web/controller/UserController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="120">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web-restful/src/main/java/com/hemming/web/aspect/ServiceAspect.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="417">
+              <caret line="68" selection-start-line="68" selection-end-line="68" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -195,64 +120,77 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/d26/ResizingArrayStack.java">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/IllegalArgumentException.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="423">
-              <caret line="72" column="5" lean-forward="true" selection-start-line="55" selection-start-column="4" selection-end-line="72" selection-end-column="5" />
+            <state relative-caret-position="860">
+              <caret line="70" column="11" selection-start-line="70" selection-start-column="11" selection-end-line="70" selection-end-column="11" />
               <folding>
-                <element signature="e#303#304#0" expanded="true" />
-                <element signature="e#331#332#0" expanded="true" />
-                <element signature="e#361#362#0" expanded="true" />
-                <element signature="e#385#386#0" expanded="true" />
-                <element signature="e#757#758#0" expanded="true" />
-                <element signature="e#784#785#0" expanded="true" />
-                <element signature="e#1123#1124#0" expanded="true" />
-                <element signature="e#1159#1160#0" expanded="true" />
-                <element signature="e#1207#1208#0" expanded="true" />
-                <element signature="e#1243#1244#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/d26/Stack.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-              <folding>
-                <element signature="e#229#230#0" expanded="true" />
-                <element signature="e#256#257#0" expanded="true" />
+                <element signature="e#1615#1616#0" expanded="true" />
+                <element signature="e#1652#1653#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/Iterable.java">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.3.2.RELEASE/4d695ffe01b7f23d66dc8d587f78212fecc70614/spring-core-4.3.2.RELEASE-sources.jar!/org/springframework/util/StopWatch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="151">
-              <caret line="44" column="17" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
+            <state relative-caret-position="540">
+              <caret line="43" column="30" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar!/java/util/AbstractMap.class">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjweaver/1.8.9/9a10b6740c821d03b800a6062284b4a99de4fbeb/aspectjweaver-1.8.9-sources.jar!/org/aspectj/lang/ProceedingJoinPoint.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1164">
+            <state relative-caret-position="200">
+              <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.validation/validation-api/1.1.0.Final/7d49b53caed9bd81d172807c3e096d24f3c57090/validation-api-1.1.0.Final-sources.jar!/javax/validation/Validation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1640">
+              <caret line="109" column="26" selection-start-line="109" selection-start-column="26" selection-end-line="109" selection-end-column="26" />
               <folding>
-                <element signature="e#0#11551#0" expanded="true" />
+                <element signature="e#4901#4902#0" expanded="true" />
+                <element signature="e#4941#4942#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/Downloads/Chrome/algs4.jar!/edu/princeton/cs/algs4/Quick.java">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web-restful/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+            <state relative-caret-position="820">
+              <caret line="41" column="41" selection-start-line="41" selection-start-column="41" selection-end-line="41" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/settings.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web-restful/src/main/java/com/hemming/web/req/AbstractReq.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -299,10 +237,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/连续子数组06.java" />
-        <option value="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/最后一个单词长度06.java" />
-        <option value="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/test/TestDouble.java" />
-        <option value="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/二进制字符串求和06.java" />
         <option value="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/连续子数组07.java" />
         <option value="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/平方根07.java" />
         <option value="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/爬楼梯07.java" />
@@ -350,6 +284,10 @@
         <option value="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/d25/操作数栈.java" />
         <option value="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/d26/ResizingArrayStack.java" />
         <option value="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/d26/Stack.java" />
+        <option value="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/test/TestException.java" />
+        <option value="$PROJECT_DIR$/web-restful/src/main/java/com/hemming/web/req/AbstractReq.java" />
+        <option value="$PROJECT_DIR$/web-restful/build.gradle" />
+        <option value="$PROJECT_DIR$/web-restful/src/main/java/com/hemming/web/aspect/ServiceAspect.java" />
       </list>
     </option>
   </component>
@@ -371,6 +309,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -381,69 +320,53 @@
             <path>
               <item name="spring-boot" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-boot" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="daily-study" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="web-restful" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
               <item name="spring-boot" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-boot" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="daily-study" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="web-restful" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring-boot" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-boot" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="daily-study" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-boot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-boot" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="daily-study" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="web-restful" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring-boot" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-boot" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="daily-study" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="web-restful" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="daily" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring-boot" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-boot" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="daily-study" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="web-restful" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="daily" type="462c0819:PsiDirectoryNode" />
-              <item name="练习" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring-boot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="spring-boot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="algs4.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-boot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="algs4.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="algs4" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="web-restful" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -502,7 +425,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.操作数栈">
+  <component name="RunManager" selected="Application.TestException">
     <configuration default="true" type="ApexTest" factoryName="Apex Test">
       <method />
     </configuration>
@@ -644,6 +567,76 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hemming.daily.test.TestException" />
+      <module name="daily-study_main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hemming.daily.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="求众数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hemming.daily.练习.d16.求众数" />
+      <module name="daily-study_main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hemming.daily.练习.d16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="找到所有数组中消失的数字" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hemming.daily.练习.d16.找到所有数组中消失的数字" />
+      <module name="daily-study_main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hemming.daily.练习.d16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="最短无序连续子数组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hemming.daily.练习.d17.最短无序连续子数组" />
+      <module name="daily-study_main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hemming.daily.练习.d18.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="汉明距离" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hemming.daily.练习.d18.汉明距离" />
+      <module name="daily-study_main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hemming.daily.练习.d18.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="最小栈" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.hemming.daily.练习.d14.最小栈" />
       <module name="daily-study_main" />
@@ -707,62 +700,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.hemming.daily.练习.d24.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="求众数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hemming.daily.练习.d16.求众数" />
-      <module name="daily-study_main" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.hemming.daily.练习.d16.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="找到所有数组中消失的数字" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hemming.daily.练习.d16.找到所有数组中消失的数字" />
-      <module name="daily-study_main" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.hemming.daily.练习.d16.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="最短无序连续子数组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hemming.daily.练习.d17.最短无序连续子数组" />
-      <module name="daily-study_main" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.hemming.daily.练习.d18.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="汉明距离" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hemming.daily.练习.d18.汉明距离" />
-      <module name="daily-study_main" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.hemming.daily.练习.d18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -871,10 +808,12 @@
     <list>
       <item itemvalue="Application.LRUCache" />
       <item itemvalue="Application.操作数栈" />
+      <item itemvalue="Application.TestException" />
       <item itemvalue="Spring Boot.Application" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestException" />
         <item itemvalue="Application.操作数栈" />
         <item itemvalue="Application.LRUCache" />
       </list>
@@ -972,6 +911,10 @@
       <workItem from="1562596718773" duration="7464000" />
       <workItem from="1562858119357" duration="10584000" />
       <workItem from="1563374715341" duration="3543000" />
+      <workItem from="1564568601981" duration="1294000" />
+      <workItem from="1565078109234" duration="221000" />
+      <workItem from="1565681332248" duration="4035000" />
+      <workItem from="1565748869782" duration="24000" />
     </task>
     <servers />
   </component>
@@ -990,7 +933,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="245646000" />
+    <option name="totallyTimeSpent" value="251220000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1046,7 +989,7 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="SBT" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
-      <window_info anchor="right" id="Gradle" order="9" weight="0.1685879" />
+      <window_info anchor="right" id="Gradle" order="9" visible="true" weight="0.1685879" />
       <window_info anchor="right" id="Database" order="10" />
       <window_info anchor="right" id="Translate" order="11" />
       <window_info anchor="right" id="Maven" order="12" weight="0.3299712" />
@@ -1506,245 +1449,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/d14/最小栈.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="449">
-          <caret line="49" column="5" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
-          <folding>
-            <element signature="e#215#216#0" expanded="true" />
-            <element signature="e#252#253#0" expanded="true" />
-            <element signature="e#844#845#0" expanded="true" />
-            <element signature="e#879#880#0" expanded="true" />
-            <element signature="e#584#585#0" expanded="true" />
-            <element signature="e#610#611#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/d15.java" />
-    <entry file="file://$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/最大深度11.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="15" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/amqp-client/src/main/java/com/hemming/rabbitmq/config/RabbitMQConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/amqp-client/src/main/resources/rabbitmq.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web-restful/src/main/java/com/hemming/web/Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web-restful/src/main/java/com/hemming/web/config/DataSourceConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="34" column="39" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/爬楼梯07.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#207#208#0" expanded="true" />
-            <element signature="e#258#259#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/amqp-client/src/main/java/com/hemming/rabbitmq/util/SendMessageUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="14" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/d15/贯穿最长树长度.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/d15/小偷偷钱a.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="22" column="23" lean-forward="true" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/stream/Collectors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="803" column="4" selection-start-line="803" selection-start-column="4" selection-end-line="803" selection-end-column="4" />
-          <folding>
-            <element signature="e#33990#33991#0" expanded="true" />
-            <element signature="e#34045#34046#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/d16/Temp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="12" column="1" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/层次遍历10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1380">
-          <caret line="69" column="23" selection-start-line="69" selection-start-column="23" selection-end-line="69" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1344#1345#0" expanded="true" />
-            <element signature="e#1435#1436#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/d16/求众数.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="41" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/d16/找到所有数组中消失的数字.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/d17/最短无序连续子数组.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="940">
-          <caret line="47" column="16" selection-start-line="47" selection-start-column="16" selection-end-line="47" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/d17/合并二叉树.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1160">
-          <caret line="58" column="8" selection-start-line="58" selection-start-column="8" selection-end-line="58" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/d19.java" />
-    <entry file="file://$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/d19/路径总和3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="800">
-          <caret line="40" column="5" selection-start-line="9" selection-start-column="4" selection-end-line="40" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/d19/LRUCache.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1040">
-          <caret line="56" selection-start-line="56" selection-end-line="56" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#627#628#0" expanded="true" />
-            <element signature="e#666#667#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/mysql/mysql-connector-java/5.1.39/613d0456fa79f67749af2754b6c23abf43b9574f/mysql-connector-java-5.1.39-sources.jar!/com/mysql/jdbc/ConnectionImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46060">
-          <caret line="2388" column="49" selection-start-line="2388" selection-start-column="49" selection-end-line="2388" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/LinkedHashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7380">
-          <caret line="397" column="11" selection-start-line="397" selection-start-column="11" selection-end-line="397" selection-end-column="11" />
-          <folding>
-            <element signature="e#19667#19668#0" expanded="true" />
-            <element signature="e#19695#19696#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6500">
-          <caret line="354" column="19" selection-start-line="354" selection-start-column="19" selection-end-line="354" selection-end-column="19" />
-          <folding>
-            <element signature="e#8748#8749#0" expanded="true" />
-            <element signature="e#8787#8788#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/d18/汉明距离.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="880">
-          <caret line="44" column="5" selection-start-line="13" selection-start-column="4" selection-end-line="44" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/d18/把二叉搜索树转换为累加树.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5700">
-          <caret line="314" column="15" selection-start-line="314" selection-start-column="15" selection-end-line="314" selection-end-column="15" />
-          <folding>
-            <element signature="e#10902#10903#0" expanded="true" />
-            <element signature="e#10948#10949#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/Math.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22420">
-          <caret line="1181" column="22" selection-start-line="1181" selection-start-column="22" selection-end-line="1181" selection-end-column="22" />
-          <folding>
-            <element signature="e#46227#46228#0" expanded="true" />
-            <element signature="e#46266#46267#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/d20/字符串相加.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -1871,16 +1575,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/Downloads/Chrome/algs4.jar!/edu/princeton/cs/algs4/Quick.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/d25/操作数栈.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
+        <state relative-caret-position="60">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1888,48 +1585,236 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar!/java/util/AbstractMap.class">
+    <entry file="file://$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/d26/ResizingArrayStack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1164">
-          <folding>
-            <element signature="e#0#11551#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="1240">
+          <caret line="72" column="5" selection-start-line="55" selection-start-column="4" selection-end-line="72" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/Iterable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
+        <state relative-caret-position="340">
           <caret line="44" column="17" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/d26/ResizingArrayStack.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/jre/lib/rt.jar!/java/util/AbstractMap.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/Chrome/algs4.jar!/edu/princeton/cs/algs4/Quick.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="423">
-          <caret line="72" column="5" lean-forward="true" selection-start-line="55" selection-start-column="4" selection-end-line="72" selection-end-column="5" />
-          <folding>
-            <element signature="e#303#304#0" expanded="true" />
-            <element signature="e#331#332#0" expanded="true" />
-            <element signature="e#361#362#0" expanded="true" />
-            <element signature="e#385#386#0" expanded="true" />
-            <element signature="e#757#758#0" expanded="true" />
-            <element signature="e#784#785#0" expanded="true" />
-            <element signature="e#1123#1124#0" expanded="true" />
-            <element signature="e#1159#1160#0" expanded="true" />
-            <element signature="e#1207#1208#0" expanded="true" />
-            <element signature="e#1243#1244#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="300">
+          <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/练习/d26/Stack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
-          <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/AbstractMap.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/Chrome/algs4.jar!/edu/princeton/cs/algs4/Accumulator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/Chrome/algs4.jar!/edu/princeton/cs/algs4/BST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="65" column="13" selection-start-line="65" selection-start-column="13" selection-end-line="65" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/Chrome/algs4.jar!/edu/princeton/cs/algs4/Whitelist.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="43" column="13" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/Chrome/algs4.jar!/edu/princeton/cs/algs4/Vector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/Chrome/algs4.jar!/edu/princeton/cs/algs4/ThreeSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="43" column="13" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/Chrome/algs4.jar!/edu/princeton/cs/algs4/ThreeSumFast.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="59" column="13" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/Chrome/algs4.jar!/edu/princeton/cs/algs4/TopM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/Chrome/algs4.jar!/edu/princeton/cs/algs4/Topological.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret line="66" column="7" selection-start-line="66" selection-start-column="7" selection-end-line="66" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/test/TestException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="30" column="33" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.3.2.RELEASE/aed414800c159e0a45cb0af43c2a8c22cab8faac/spring-context-4.3.2.RELEASE-sources.jar!/org/springframework/context/annotation/Condition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-restful/src/main/java/com/hemming/web/condition/JdbcTemplateCondition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="9" column="49" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-restful/src/main/java/com/hemming/web/handler/LocalDateHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-restful/src/main/java/com/hemming/web/handler/LocalDateTimeHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-244">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-restful/src/main/java/com/hemming/web/PO/UserPO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-restful/src/main/resources/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-restful/src/main/resources/create.sql">
+      <provider selected="true" editor-type-id="OdpsQlEditor" />
+      <provider editor-type-id="OdpsQlGraph" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-restful/src/main/resources/hikari.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-restful/src/main/java/com/hemming/web/config/DataSourceConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-63">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-restful/src/main/java/com/hemming/web/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/IllegalArgumentException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="860">
+          <caret line="70" column="11" selection-start-line="70" selection-start-column="11" selection-end-line="70" selection-end-column="11" />
           <folding>
-            <element signature="e#229#230#0" expanded="true" />
-            <element signature="e#256#257#0" expanded="true" />
+            <element signature="e#1615#1616#0" expanded="true" />
+            <element signature="e#1652#1653#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.3.2.RELEASE/4d695ffe01b7f23d66dc8d587f78212fecc70614/spring-core-4.3.2.RELEASE-sources.jar!/org/springframework/util/StopWatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="43" column="30" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjweaver/1.8.9/9a10b6740c821d03b800a6062284b4a99de4fbeb/aspectjweaver-1.8.9-sources.jar!/org/aspectj/lang/ProceedingJoinPoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.validation/validation-api/1.1.0.Final/7d49b53caed9bd81d172807c3e096d24f3c57090/validation-api-1.1.0.Final-sources.jar!/javax/validation/Validation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1640">
+          <caret line="109" column="26" selection-start-line="109" selection-start-column="26" selection-end-line="109" selection-end-column="26" />
+          <folding>
+            <element signature="e#4901#4902#0" expanded="true" />
+            <element signature="e#4941#4942#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-restful/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="820">
+          <caret line="41" column="41" selection-start-line="41" selection-start-column="41" selection-end-line="41" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-restful/src/main/java/com/hemming/web/req/AbstractReq.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-restful/src/main/java/com/hemming/web/aspect/ServiceAspect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="68" selection-start-line="68" selection-end-line="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

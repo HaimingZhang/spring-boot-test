@@ -33,7 +33,14 @@ dependencies {
         exclude group: 'org.apache.tomcat', module: 'tomcat-jdbc'
     }
 
+    compile('org.springframework.boot:spring-boot-starter-aop:1.5.18.RELEASE')
+
     compile('com.zaxxer:HikariCP:2.4.7')
+    compile "javax.validation:validation-api:1.1.0.Final"
+    compile "org.hibernate:hibernate-validator:5.3.6.Final"
+
+    compile 'com.alibaba:fastjson:1.2.39'
+
     runtime('mysql:mysql-connector-java')
 
     testCompile('org.springframework.boot:spring-boot-starter-test')
