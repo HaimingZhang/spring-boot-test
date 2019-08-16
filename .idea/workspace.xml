@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d73bee4-15b6-4710-9bf2-34583b89e3e3" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_aspectj_aspectjweaver_1_8_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hibernate_hibernate_validator_5_3_6_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_aop_1_5_18_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-restful/src/main/java/com/hemming/web/aspect/ServiceAspect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web-restful/src/main/java/com/hemming/web/req/AbstractReq.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hibernate_hibernate_validator_5_2_4_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/Spring-boot.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Spring-boot.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/daily-study/daily-study_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/daily-study/daily-study_main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/web-restful/web-restful_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/web-restful/web-restful_main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/web-restful/web-restful_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/web-restful/web-restful_test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/daily-study/out/production/classes/com/hemming/daily/test/TestException.class" beforeDir="false" afterPath="$PROJECT_DIR$/daily-study/out/production/classes/com/hemming/daily/test/TestException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/test/TestException.java" beforeDir="false" afterPath="$PROJECT_DIR$/daily-study/src/main/java/com/hemming/daily/test/TestException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-restful/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/web-restful/build.gradle" afterDir="false" />
     </list>
     <ignored path="Spring-boot.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -110,8 +95,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web-restful/src/main/java/com/hemming/web/aspect/ServiceAspect.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="417">
-              <caret line="68" selection-start-line="68" selection-end-line="68" />
+            <state relative-caret-position="170">
+              <caret line="64" column="13" lean-forward="true" selection-start-line="64" selection-start-column="13" selection-end-line="64" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -309,7 +294,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -367,6 +351,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -581,6 +566,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="打印二维数组的值" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hemming.daily.练习.d24.打印二维数组的值" />
+      <module name="daily-study_main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hemming.daily.练习.d24.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="求众数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.hemming.daily.练习.d16.求众数" />
       <module name="daily-study_main" />
@@ -681,20 +680,6 @@
     </configuration>
     <configuration name="求二进制" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.hemming.daily.练习.d24.求二进制" />
-      <module name="daily-study_main" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.hemming.daily.练习.d24.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="打印二维数组的值" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hemming.daily.练习.d24.打印二维数组的值" />
       <module name="daily-study_main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -915,6 +900,8 @@
       <workItem from="1565078109234" duration="221000" />
       <workItem from="1565681332248" duration="4035000" />
       <workItem from="1565748869782" duration="24000" />
+      <workItem from="1565749320660" duration="628000" />
+      <workItem from="1565853092582" duration="1075000" />
     </task>
     <servers />
   </component>
@@ -933,7 +920,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="251220000" />
+    <option name="totallyTimeSpent" value="252923000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -947,7 +934,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49805447" visible="true" weight="0.25072047" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49805447" visible="true" weight="0.25072047" />
       <window_info id="Structure" order="1" sideWeight="0.49805447" weight="0.1887608" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -966,7 +953,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32734275" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
       <window_info anchor="bottom" id="Execute Anonymous" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.24296676" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.24296676" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50072044" side_tool="true" weight="0.23785166" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32097188" />
       <window_info anchor="bottom" id="Debug Logs" order="12" />
@@ -1811,8 +1798,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web-restful/src/main/java/com/hemming/web/aspect/ServiceAspect.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="417">
-          <caret line="68" selection-start-line="68" selection-end-line="68" />
+        <state relative-caret-position="170">
+          <caret line="64" column="13" lean-forward="true" selection-start-line="64" selection-start-column="13" selection-end-line="64" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
